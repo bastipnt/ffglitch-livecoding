@@ -1,0 +1,7 @@
+[project]
+name = "ffglitch-livecoding"
+version = "0.1.0"
+description = "Change code dynamically while running ffglitch"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
